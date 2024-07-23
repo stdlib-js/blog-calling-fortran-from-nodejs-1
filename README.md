@@ -1,6 +1,10 @@
 # How to call Fortran routines from JavaScript using Node.js
 
-> Source code for the blog post ["How to call Fortran routines from JavaScript using Node.js"][post].
+> Blog post source code.
+
+To learn more about the source code in this repository, see ["How to call Fortran routines from JavaScript using Node.js"][post].
+
+* * *
 
 ## License
 
